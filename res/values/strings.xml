@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drugs News</string>
+    <string name="app_name_history">Drugs News History</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">Reference Guide</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="facebook_app_id">399155160283311</string>
+
+    <!-- about section -->
+    <string name="developer">Ibrahim Ali Mohamed</string>
+    <string name="developer_dec">Software Engineer at Faculty of Computers and Informations Cairo University, Computer Sciense department</string>
+    <string name="mobile_phone">01227462847</string>
+    <string name="skype_account">ibrahim.ebeido1</string>
+    <string name="facebook_account">/ibrahem.ali.543</string>
+    <string name="call">Click on Phone number to make call</string>
+    <string name="gmail_account">ibrahim.ali.0403@gmail</string>
+    <string name="welcome_sign_in_successfully_">Welcome, Sign in Successfully...</string>
+    <string name="app_dec">This is an android mobile application which allows doctors to receive messages on mobile, when drug prices are changed, or news about a new drug that became available in the Egyptian markets.\n
+This is done by notification on the mobile, and through the application also be possible to communicate with your friends through the chat service, or invite your friends on social networks to use this application.</string>
+    <string name="defaultmsg">Here You Will see the new news</string>
+
+</resources>
